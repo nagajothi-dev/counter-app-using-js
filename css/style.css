@@ -1,0 +1,11 @@
+.counter{
+    display: flex;
+    width:10vw;
+    justify-content: space-between;
+}
+.increment:hover{
+    cursor: pointer;
+}
+.decrement:hover{
+    cursor: pointer;
+}
